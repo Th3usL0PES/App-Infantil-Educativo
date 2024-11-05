@@ -1,0 +1,56 @@
+name: app_infantil_educacional
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  rive: ^0.9.0
+  lottie: ^1.2.0 # Adicione esta linha corretamente
+
+
+
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^4.0.0
+
+flutter:
+
+
+  uses-material-design: true
+
+
+  assets:
+    - assets/images/fundoselva.png
+    - assets/images/fundosea.png
+    - assets/images/fundofloresta.png
+    - assets/images/fundoutono.gif
+    - assets/images/perfil.png
+    - assets/images/book.png
+    - assets/images/adição.png
+    - assets/images/subtração.png
+    - assets/images/multiplicação.png
+    - assets/images/divisão.png
+    - assets/tree_demo.riv
+    - assets/rabbit.riv
+    - assets/images/twig.gif
+    - assets/images/iconeperfil.png
+    - assets/images/pencil.png
+    - assets/bear.riv
+    - assets/dog.riv
+    - assets/images/title.png
+    - assets/images/books1.png
+    - assets/images/books2.png
